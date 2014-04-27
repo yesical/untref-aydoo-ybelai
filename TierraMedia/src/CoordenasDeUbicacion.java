@@ -9,20 +9,7 @@ public class CoordenasDeUbicacion {
 
 	}
 
-	public double UbicacionAtraccion() {
-
-		for (int i = 0; i < 2; i++) {
-			
-				System.out.println("Coordenada en X:");
-				System.out.println(coordenadas[0]);
-		
-				System.out.println("Coordenada en Y:");
-				System.out.println(coordenadas[1]);
-
-			}
-
-		
-		return coordenadas[2];
+	
 	}
 
 }
